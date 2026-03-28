@@ -1,0 +1,5 @@
+streamlit
+groq
+pdfminer.six
+python-docx
+plotly
